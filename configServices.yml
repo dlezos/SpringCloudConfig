@@ -1,6 +1,6 @@
 configuration:  
   projectName: configServices
 server:
-  port: 7777
+  port: 5555
 message:
   greeting: Hello from the configuration!
