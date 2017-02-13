@@ -1,5 +1,5 @@
 configuration:  
-  projectName: configclient
+  projectName: configServices
 server:
   port: 7777
 message:

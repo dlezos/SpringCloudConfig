@@ -1,5 +1,5 @@
 configuration:  
-  projectName: configclient
+  projectName: configEdge
 server:
   port: 7777
 message:
