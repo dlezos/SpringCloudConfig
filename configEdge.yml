@@ -1,6 +1,6 @@
 configuration:  
   projectName: configEdge
 server:
-  port: 7777
+  port: 6666
 message:
   greeting: Hello from the configuration!
